@@ -1,9 +1,10 @@
 # Inducción
 
-1. Identidad corporativa
-    1. [Quienes somos](#qui%C3%A9nes-somos)
-    2. [Misión](#misi%C3%B3n)
-    3. [Visión](#visi%C3%B3n)
+1. [Identidad corporativa](#identidad-corporativa)
+    1. Quienes somos
+    2. Misión
+    3. Visión
+2. [Estructura curricular](#identidad-corporativa)
 
 ## Identidad corporativa
 
