@@ -4,7 +4,9 @@
     1. Quienes somos
     2. Misión
     3. Visión
-2. [Estructura curricular](#identidad-corporativa)
+    4. Imagen corporativa
+2. [Centros de formación Atlantico](#identidad-corporativa)
+3. [Estructura curricular](#identidad-corporativa)
 
 ## Identidad corporativa
 
@@ -19,6 +21,13 @@ El SENA está  encargado de cumplir la función que le corresponde al Estado de 
 ### Visión
 
 En el año 2022 el SENA se consolidará como una entidad referente de formación integral para el trabajo, por su aporte a la empleabilidad, el emprendimiento y la equidad, que atiende con pertinencia y calidad las necesidades productivas y sociales del país.
+
+### Imagen corporativa
+
+En el Manual de Identidad Corporativa SENA se establecen y definen todas las normas de aplicación que logran, en su conjunto, proyectar una imagen sólida institucional que respalda a los públicos objetivos de la Entidad
+
+## Centros de formación Atlantico
+
 
 ## Estructura curricular
 
