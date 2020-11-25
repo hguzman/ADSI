@@ -7,6 +7,7 @@
     4. Imagen corporativa
 2. [Centros de formación Atlantico](#identidad-corporativa)
 3. [Estructura curricular](#identidad-corporativa)
+4. [Proyectos formativos(#proyectos-formativos)]
 
 ## Identidad corporativa
 
@@ -63,3 +64,6 @@ horario: Lunes a Viernes 7:30 a.m. a 12:00 m. y 2:00 p.m. a 6:00 p.m. Fines de s
 El [diseño curricular](http://portal.senasofiaplus.edu.co/index.php/ayudas/procesos-sena/funcionario/planeacion-de-la-formacion/diseno-curricular#:~:text=El%20dise%C3%B1o%20curricular%20confluye%20en,de%20aprendizaje%20y%20tipo%20de) confluye en un documento que muestra la estructura general del programa, el cual precisa características y proyecciones del contexto laboral y ocupacional, objetivos del programa, perfiles de ingreso y salida del aprendiz, competencias que lo conforman, resultados de aprendizaje y tipo de certificación.
 
 [Descargar PDF](pdf/adsi.pdf)
+
+## Proyectos formativos
+
