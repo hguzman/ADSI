@@ -7,7 +7,7 @@
     4. Imagen corporativa
 2. [Centros de formación Atlantico](#identidad-corporativa)
 3. [Estructura curricular](#identidad-corporativa)
-4. [Proyectos formativos(#proyectos-formativos)]
+4. [Proyectos formativos](#proyectos-formativos)]
 
 ## Identidad corporativa
 
@@ -67,3 +67,5 @@ El [diseño curricular](http://portal.senasofiaplus.edu.co/index.php/ayudas/proc
 
 ## Proyectos formativos
 
+- [DISEÑO Y CONSTRUCCIÓN DE SOFTWARE A LA MEDIDA PARA EL SECTOR EMPRESARIAL](pdf/1528055.pdf)
+- [SOMSENA - SISTEMATIZACIÓN ÓPTIMA DE PROCESOS (APLICATIVOS DE ESCRITORIO, WEB Y MÓVILES) PARA LAS MIPYMES Y EL SENA](pdf/898813.pdf)
