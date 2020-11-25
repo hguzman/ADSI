@@ -7,7 +7,7 @@
     4. Imagen corporativa
 2. [Centros de formación Atlantico](#identidad-corporativa)
 3. [Estructura curricular](#identidad-corporativa)
-4. [Proyectos formativos](#proyectos-formativos)]
+4. [Proyectos formativos](#proyectos-formativos)
 
 ## Identidad corporativa
 
