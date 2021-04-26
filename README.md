@@ -38,7 +38,7 @@ teléfono: 3344863 - 3857931 - 52202- 52225
 horario: Lunes a Viernes 8:00 a.m. a 12:00 m. y 2:00 p.m. a 6:00 p.m. Fines de semana y Festivos N/A
 [Blog](https://industrialyaviacionatlco.blogspot.com/)
 
-### CENTRO COMERCIO Y SERVICIOS​
+### CENTRO COMERCIO Y SERVICIOS
 Kra. 43 No. 42 - 40 Piso 10 Barranquilla
 Indicativo: 95
 teléfono: 3851285 - 52000- 52064
