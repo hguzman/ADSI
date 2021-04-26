@@ -16,13 +16,8 @@ En el Manual de Identidad Corporativa SENA se establecen y definen todas las nor
 ## CENTROS DE FORMACIÓN ATLANTICO
 
 - [ CENTRO PARA EL DESARROLLO AGROECOLÓGICO Y AGROINDUSTRIAL ](centros/cedagro.md)
+- [CENTRO NACIONAL COLOMBO ALEMÁN](centros/colombo.md)
 
-### CENTRO NACIONAL COLOMBO ALEMÁN
-Diag. 18 No. 16 - 30 Malambo
-Indicativo: 95
-teléfono: 3762855 ,
-horario: Lunes a Viernes 7:30 a.m. a 12:00 m. y 2:00 p.m. a 5:30 p.m. Fines de semana y Festivos N/A
-[Blog](https://centronalcolomboaleman.blogspot.com/)
 
 ### CENTRO INDUSTRIAL Y DE AVIACIÓN
 Calle 30 No. 3E - 164 Barranquilla
