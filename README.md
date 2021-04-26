@@ -20,8 +20,3 @@ En el Manual de Identidad Corporativa SENA se establecen y definen todas las nor
 - [CENTRO INDUSTRIAL Y DE AVIACIÓN](centros/industrial.md)
 - [CENTRO COMERCIO Y SERVICIOS](centros/comercio.md)
 
-
-
-Formación SENA - ADSI
-
-2. [Proyecto formativo](proyecto/readme.md)
