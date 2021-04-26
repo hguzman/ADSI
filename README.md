@@ -17,14 +17,8 @@ En el Manual de Identidad Corporativa SENA se establecen y definen todas las nor
 
 - [ CENTRO PARA EL DESARROLLO AGROECOLÓGICO Y AGROINDUSTRIAL ](centros/cedagro.md)
 - [CENTRO NACIONAL COLOMBO ALEMÁN](centros/colombo.md)
+- [CENTRO INDUSTRIAL Y DE AVIACIÓ](centros/industrial.md)
 
-
-### CENTRO INDUSTRIAL Y DE AVIACIÓN
-Calle 30 No. 3E - 164 Barranquilla
-indicativo: 95
-teléfono: 3344863 - 3857931 - 52202- 52225
-horario: Lunes a Viernes 8:00 a.m. a 12:00 m. y 2:00 p.m. a 6:00 p.m. Fines de semana y Festivos N/A
-[Blog](https://industrialyaviacionatlco.blogspot.com/)
 
 ### CENTRO COMERCIO Y SERVICIOS
 Kra. 43 No. 42 - 40 Piso 10 Barranquilla
