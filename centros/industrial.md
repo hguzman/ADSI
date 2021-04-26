@@ -13,6 +13,3 @@
 - [ANALISIS Y DESARROLLO DE SISTEMAS DE INFORMACIÓN](formaciones/adsi.md)
 
 
-Formación SENA - ADSI
-
-2. [Proyecto formativo](proyecto/readme.md)
